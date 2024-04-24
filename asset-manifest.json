@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.b2b8646b.css",
-    "main.js": "/static/js/main.daab11eb.js",
-    "static/media/Inter-VariableFont_slnt,wght.ttf": "/static/media/Inter-VariableFont_slnt,wght.853e01975d2783d9fa29.ttf",
-    "static/media/unvisible.svg": "/static/media/unvisible.007a891b1f2f0462c45bf4b72aa19d4b.svg",
-    "static/media/visible.svg": "/static/media/visible.cd1a092475d62cf8e3ca865c3d3a83cf.svg",
-    "static/media/Arrow.svg": "/static/media/Arrow.74311de4fe787d5cfb91a9ae0670bebc.svg",
-    "static/media/loading.svg": "/static/media/loading.0ba40b750054665472157e7de56080fb.svg",
-    "static/media/rotating.svg": "/static/media/rotating.4a45b444c17d0b31b69d305f5a27e8af.svg",
-    "index.html": "/index.html",
-    "static/media/close.svg": "/static/media/close.1ded1e99216871d2a3aec0714440eb62.svg",
-    "main.b2b8646b.css.map": "/static/css/main.b2b8646b.css.map",
-    "main.daab11eb.js.map": "/static/js/main.daab11eb.js.map"
+    "main.css": "/education.github.io/static/css/main.7cef0e38.css",
+    "main.js": "/education.github.io/static/js/main.1d4db04e.js",
+    "static/media/Inter-VariableFont_slnt,wght.ttf": "/education.github.io/static/media/Inter-VariableFont_slnt,wght.853e01975d2783d9fa29.ttf",
+    "static/media/unvisible.svg": "/education.github.io/static/media/unvisible.007a891b1f2f0462c45bf4b72aa19d4b.svg",
+    "static/media/visible.svg": "/education.github.io/static/media/visible.cd1a092475d62cf8e3ca865c3d3a83cf.svg",
+    "static/media/Arrow.svg": "/education.github.io/static/media/Arrow.74311de4fe787d5cfb91a9ae0670bebc.svg",
+    "static/media/loading.svg": "/education.github.io/static/media/loading.0ba40b750054665472157e7de56080fb.svg",
+    "static/media/rotating.svg": "/education.github.io/static/media/rotating.4a45b444c17d0b31b69d305f5a27e8af.svg",
+    "index.html": "/education.github.io/index.html",
+    "static/media/close.svg": "/education.github.io/static/media/close.1ded1e99216871d2a3aec0714440eb62.svg",
+    "main.7cef0e38.css.map": "/education.github.io/static/css/main.7cef0e38.css.map",
+    "main.1d4db04e.js.map": "/education.github.io/static/js/main.1d4db04e.js.map"
   },
   "entrypoints": [
-    "static/css/main.b2b8646b.css",
-    "static/js/main.daab11eb.js"
+    "static/css/main.7cef0e38.css",
+    "static/js/main.1d4db04e.js"
   ]
 }
